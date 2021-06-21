@@ -1,0 +1,30 @@
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Zoom Visitor's statistic.exe.config
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Zoom Visitor's statistic.exe
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Zoom Visitor's statistic.pdb
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.Helpers.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.Mvc.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.Razor.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.Helpers.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.Mvc.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.Razor.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.csprojAssemblyReference.cache
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Form1.resources
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Properties.Resources.resources
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Teacher.TeacherForm.resources
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.csproj.GenerateResource.cache
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.csproj.CoreCompileInputs.cache
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.csproj.CopyComplete
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.exe
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.pdb
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Leaf.xNet.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Leaf.xNet.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Student.StudentForm.resources
