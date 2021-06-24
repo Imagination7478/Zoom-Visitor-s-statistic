@@ -14,7 +14,6 @@ C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statis
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.xml
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Web.WebPages.Razor.xml
-C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.csprojAssemblyReference.cache
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Form1.resources
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Properties.Resources.resources
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Teacher.TeacherForm.resources
@@ -28,3 +27,14 @@ C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statis
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Student.StudentForm.resources
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Buffers.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Memory.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.ValueTuple.dll
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Buffers.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Memory.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.ValueTuple.xml
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.csprojAssemblyReference.cache
