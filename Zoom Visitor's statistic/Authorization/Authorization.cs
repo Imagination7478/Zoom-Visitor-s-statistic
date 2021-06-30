@@ -17,10 +17,10 @@ namespace Zoom_Visitor_s_statistic.Authorization
 
             using (var request = new HttpRequest())
             {
-                request.ConnectTimeout = 60000;
+                request.ConnectTimeout = 180000;
 
                 string content = request.Get(
-                    $"https://zoomvisitorsstat.azurewebsites.net/autorize/{flag}?url={url}").ToString();
+                    $"https://localhost:44353/autorize/{flag}?url={url}").ToString();
 
                 if (content == "1") { return "1"; }
                 else return content;

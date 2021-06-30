@@ -87,6 +87,9 @@ namespace Zoom_Visitor_s_statistic.JSONS
 
         [JsonProperty("status")]
         public string Status { get; set; }
+
+        [JsonProperty("Access_token")]
+        public string AccessToken { get; set; }
     }
 
     public partial class UserData

@@ -2,7 +2,9 @@
 using System;
 
 using System.Windows.Forms;
+using Zoom_Visitor_s_statistic.Groups;
 using Zoom_Visitor_s_statistic.JSONS;
+using Zoom_Visitor_s_statistic.Statistic;
 
 namespace Zoom_Visitor_s_statistic.Teacher
 {
@@ -17,10 +19,10 @@ namespace Zoom_Visitor_s_statistic.Teacher
 
         private void TeacherForm_Load(object sender, EventArgs e)
         {
-            string result = _Teacher.autorize("https://zoomvisitorsstat.azurewebsites.net/set_access_token/0");
+            string result = _Teacher.autorize("https://localhost:44353/set_access_token/0");
             if (result == "1")
             {
-                CreateConf.Hide();
+                showGroup.Hide();
                 ShowStat.Hide();
                 label1.Text = "Ваш аккаунт не был найден в базе данных.\nОбратитесь к системному администратору.";
             }
@@ -45,16 +47,19 @@ namespace Zoom_Visitor_s_statistic.Teacher
 
         private void ShowStat_Click(object sender, EventArgs e)
         {
-            
-            using (var request = new HttpRequest())
-            {
-                var reqParams = new RequestParams();
+            StatForm stat = new StatForm(userdata);
+            stat.Show();      
+        }
 
-                string content = request.Get(
-                    "https://api.zoom.us/v2/me/report/meetings/76852694625/participants", reqParams).ToString();
+        private void button1_Click(object sender, EventArgs e)
+        {
+            GroupsForm group = new GroupsForm();
+            group.Show();
+        }
 
-                //return Ok(content);
-            }
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

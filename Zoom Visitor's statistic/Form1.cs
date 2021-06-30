@@ -23,7 +23,7 @@ namespace Zoom_Visitor_s_statistic
         {
             label1.Text = "Проходит авторизация. Подождите...";
             TeacherForm Teacher = new TeacherForm();
-            System.Diagnostics.Process.Start("https://zoom.us/oauth/authorize?response_type=code&client_id=kqTAQFgVQhuZTLrRlE6J4A&code_challenge=1111&redirect_uri=https://zoomvisitorsstat.azurewebsites.net/set_access_token/0");
+            System.Diagnostics.Process.Start("https://zoom.us/oauth/authorize?response_type=code&client_id=kqTAQFgVQhuZTLrRlE6J4A&code_challenge=1111&redirect_uri=https://localhost:44353/set_access_token/0");
             /// todo: make app.config, that will count client_id and secret
             Hide();
             Teacher.ShowDialog();

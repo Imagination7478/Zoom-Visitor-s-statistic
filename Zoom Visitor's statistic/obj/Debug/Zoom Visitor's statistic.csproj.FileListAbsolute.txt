@@ -38,3 +38,6 @@ C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statis
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\bin\Debug\System.ValueTuple.xml
 C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom Visitor's statistic.csprojAssemblyReference.cache
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Statistic.StatForm.resources
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Groups.GroupsForm.resources
+C:\Users\Imagination\source\repos\Zoom Visitor's statistic\Zoom Visitor's statistic\obj\Debug\Zoom_Visitor_s_statistic.Lessons.LessonForm.resources
